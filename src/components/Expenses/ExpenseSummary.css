@@ -1,0 +1,28 @@
+.expense_summary_Header {
+  text-align: center;
+}
+
+.Input-Boxes {
+  display: flex;
+  justify-content: space-around;
+}
+
+.expense_summary {
+  background-color: #a892ee;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.Expense_Box_cls {
+  padding: 2rem;
+  background-color: white;
+  border-radius: 1rem;
+  background-color: #2a2a2a;
+  border: 1px solid #ececec;
+  color: white;
+}
